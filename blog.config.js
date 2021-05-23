@@ -3,7 +3,7 @@ const BLOG = {
   author: 'Zeu Fung',
   email: 'zomcoo@gmail.com',
   link: 'https://zomco.vercel.app',
-  description: '加速还是刹车，这是个问题',
+  description: '加速还是刹车,这是个问题',
   lang: 'zh-CN',
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
