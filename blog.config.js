@@ -3,7 +3,7 @@ const BLOG = {
   author: 'Zeu Fung',
   email: 'zomcoo@gmail.com',
   link: 'https://zomco.vercel.app',
-  description: '加速还是刹车,这是个问题',
+  description: '加速还是刹车, 这是个问题',
   lang: 'zh-CN',
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
@@ -51,7 +51,7 @@ const BLOG = {
       repo: ''
     },
     cusdisConfig: {
-      appId: '', // data-app-id
+      appId: '6e39b9f6-5e91-4298-9d70-9a53b9537542', // data-app-id
       host: 'https://cusdis.com', // data-host, change this if you're using self-hosted version
       scriptSrc: 'https://cusdis.com/js/cusdis.es.js' // change this if you're using self-hosted version
     }
