@@ -3,7 +3,7 @@ const BLOG = {
   author: 'zomco',
   email: 'zomcoo@gmail.com',
   link: 'https://zomco.vercel.app',
-  description: '加速还是刹车, 这是个问题',
+  description: '一个会正常的发疯二极管',
   lang: 'zh-CN',
   timezone: 'Asia/Shanghai',
   appearance: 'auto', // ['light', 'dark', 'auto'],
