@@ -1,10 +1,11 @@
 const BLOG = {
-  title: '前车起步',
-  author: 'Zeu Fung',
+  title: '派极管',
+  author: 'zomco',
   email: 'zomcoo@gmail.com',
   link: 'https://zomco.vercel.app',
   description: '加速还是刹车, 这是个问题',
   lang: 'zh-CN',
+  timezone: 'Asia/Shanghai',
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
   lightBackground: '#ffffff', // use hex value, don't forget '#' e.g #fffefc
