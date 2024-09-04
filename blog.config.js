@@ -1,9 +1,9 @@
 const BLOG = {
-  title: '派极管',
-  author: 'zomco',
+  title: '伏特渣',
+  author: 'vodja',
   email: 'zomcoo@gmail.com',
   link: 'https://zomco.vercel.app',
-  description: '一个会正常的发疯二极管',
+  description: 'all in water, not wine',
   lang: 'zh-CN',
   timezone: 'Asia/Shanghai',
   appearance: 'auto', // ['light', 'dark', 'auto'],
